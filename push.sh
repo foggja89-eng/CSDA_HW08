@@ -3,13 +3,14 @@
 # Author: James C. Fogg
 # Version: 2026.02.22
 
+echo
 echo 'adding files...'
 echo
 git add .
 echo
 echo 'adding commit with message...'
 echo
-git commit -m 'initial push with assignment description' # TODO: this will need to be changed every time. 
+git commit -m 'updated push script' # TODO: this will need to be changed every time. 
 echo
 echo 'pushing to main...'
 echo
