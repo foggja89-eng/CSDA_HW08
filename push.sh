@@ -16,4 +16,11 @@ echo 'pushing to main...'
 echo
 git push origin main
 echo
+echo 'done. here is the current directory and files--'
+echo
+pwd
+echo
+ls
+echo
 echo '=====END OF PUSH.SH====='
+echo
