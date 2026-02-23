@@ -27,5 +27,5 @@ shapiro.test(mydata_3)
 
 #d
 qqnorm(mydata_4, pch = 1, frame = FALSE)
-qqline(mydata_4, col = 'steelblue', frame = FALSE)
+qqline(mydata_4, col = 'steelblue', lwd = 2)
 shapiro.test(mydata_4)
