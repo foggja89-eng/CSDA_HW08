@@ -10,7 +10,7 @@ git add .
 echo
 echo 'adding commit with message...'
 echo
-git commit -m 'updated push script' # TODO: this will need to be changed every time. 
+git commit -m 'created code space, plots, and word document for putting answers together. ' # TODO: this will need to be changed every time. 
 echo
 echo 'pushing to main...'
 echo
